@@ -1,8 +1,9 @@
 {
-  "name": "foundation-compass-app",
+  "name": "Modulus Demo",
   "version": "0.0.1",
   "private": "true",
   "dependencies": {
+    "handlebars": "latest",
     "foundation": "zurb/bower-foundation"
   }
 }

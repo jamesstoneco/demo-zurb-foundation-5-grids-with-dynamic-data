@@ -1,29 +1,6 @@
-# Foundation Compass Template
+# How to use ZURB Foundation 5 Grids with Dynamic Data
 
-The easiest way to get started with Foundation + Compass.
+This is a ZURB Foundation 5 demo project to accompany my screencast and blog post of the same title. Everything is MIT, go crazy.
 
-## Requirements
+[http://www.manofstone.com/blog/how_to_use_zurb_foundation_5_grids_with_dynamic_data](http://www.manofstone.com/blog/how_to_use_zurb_foundation_5_grids_with_dynamic_data)
 
-  * Ruby 1.9+
-  * [Node.js](http://nodejs.org)
-  * [compass](http://compass-style.org/): `gem install compass`
-  * [bower](http://bower.io): `npm install bower -g`
-
-## Quickstart
-
-  * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
-  * Run `bower install` to install the latest version of Foundation
-  
-Then when you're working on your project, just run the following command:
-
-```bash
-compass watch
-```
-
-## Upgrading
-
-If you'd like to upgrade to a newer version of Foundation down the road just run:
-
-```bash
-bower update
-```
